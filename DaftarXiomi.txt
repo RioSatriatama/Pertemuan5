@@ -1,0 +1,5 @@
+108MP,6.5,8,Redmi note 9
+500MP,5.5,4,Redmi note 8
+200MP,1.5,2,Redmi note 10
+100MP,2.5,6,Redmi 7
+300MP,4.5,12,Redmi 8
